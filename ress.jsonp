@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        function handleResponse(data) {
+            console.log(data); // Handle the response data here
+        }
+    </script>
+</head>
+
+<body>
+    <script src="https://newsapi.org/v2/everything?q="></script>
+</body>
+
+</html>
